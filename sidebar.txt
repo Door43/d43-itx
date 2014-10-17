@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[itx:home|Door43 (itx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-itx|d43-itx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-itx/archive/master.zip|d43-itx.zip]]
+
+**Recent Changes**
+{{changes>ns = itx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/itx|Ethnologue data]]
+
